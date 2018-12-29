@@ -8,3 +8,7 @@ Uma demonstração simples do uso de variáveis instrumentais para analisar o ef
 - Pesquisas Primeiro Turno 2002-2014.ipynb
 
 Visualizando as maiores diferenças entre resultados de eleições presidenciais e pesquisas eleitorais de primeiro turno. Os dados utilizados estão em "Resultados-DF-1T.csv".
+
+- Adolescent Fertility.ipynb
+
+Visualizando a evolução das taxas de fertilidade adolescente no Brasil e no mundo. Com dados do Banco Mundial (World Bank Gender Statistics).
